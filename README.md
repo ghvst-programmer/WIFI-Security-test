@@ -4,6 +4,9 @@
 
 A Python-based educational and defensive network security tool. Designed to scan Wi-Fi networks, analyze router security, and monitor connected devices — all in a safe, ethical manner.  
 
+<img width="1919" height="995" alt="Screenshot 2026-03-10 165800" src="https://github.com/user-attachments/assets/2912d16d-b7bc-45cb-ae79-2c1c0c9e8e3f" />
+
+
 > ⚠️ **Warning:** This tool is for educational purposes only. It does not crack Wi-Fi passwords or exploit networks. Only use it on networks you own or have permission to audit.
 
 ---
