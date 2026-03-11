@@ -64,14 +64,14 @@ A Python-based educational and defensive network security tool. Designed to scan
 ```bash
 git clone https://github.com/ghvstprogrammer/wifi-scan.git
 cd wifi-scan
-
-Usage
+```
+## Usage
 
 Run the tool:
 
 python3 wifi_scan.py
 
-Menu Options
+## Menu Options
 
 Scan Wi-Fi Networks
 
@@ -91,7 +91,7 @@ Exit
 
 If no wireless interface is detected, the tool will still allow router and LAN analysis via Ethernet.
 
-Requirements
+## Requirements
 
 Linux environment (Kali, Ubuntu, Debian recommended)
 
@@ -105,7 +105,7 @@ Optional: USB Wi-Fi adapter for real wireless scanning
 
 Cannot scan Wi-Fi networks without a wireless interface (wlan0). Ethernet (eth0) supports only LAN and router analysis.
 
-Contributing
+## Contributing
 
 Fork the repository
 
@@ -117,7 +117,7 @@ Push: git push origin feature-name
 
 Open a Pull Request
 
-License
+## License
 
 MIT License © 2026 @ghvstprogrammer
 
